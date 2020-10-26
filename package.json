@@ -1,0 +1,9 @@
+{
+  "name": "ionicons",
+  "version": "5.2.0",
+  "description": "Ionicons CSS version without js dependencies",
+  "main": "src/icon.css",
+  "author": "Raymond Ortserga",
+  "license": "MIT",
+  "private": false
+}
